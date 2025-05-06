@@ -1,0 +1,103 @@
+Personnality,Picture_found,Female,Male,Non-Binary,Age,Male_AI,Female_AI,Uncertain_AI,Age_AI
+Barack Obama,1,0,1,0,63,1,0,0,70
+Angela Merkel,1,1,0,0,70,1,0,0,70
+Emmanuel Macron,1,0,1,0,47,1,0,0,76
+Oprah Winfrey,1,1,0,0,71,1,0,0,76
+Brad Pitt,1,0,1,0,61,1,0,0,76
+Beyoncé,1,1,0,0,43,1,0,0,43
+Leonardo DiCaprio,1,0,1,0,50,1,0,0,20
+Taylor Swift,1,1,0,0,35,1,0,0,32
+Tom Hanks,1,0,1,0,68,1,0,0,76
+Michelle Obama,1,1,0,0,61,1,0,0,76
+Rihanna,1,1,0,0,37,0,0,1,37
+Cristiano Ronaldo,1,0,1,0,40,1,0,0,32
+Serena Williams,1,1,0,0,43,1,0,0,32
+Elon Musk,1,0,1,0,53,1,0,0,76
+Lady Gaga,1,1,0,0,39,1,0,0,20
+Keanu Reeves,1,0,1,0,60,1,0,0,60
+Jennifer Lawrence,1,1,0,0,34,1,0,0,20
+Morgan Freeman,1,0,1,0,87,1,0,0,84
+Emma Watson,1,1,0,0,35,1,0,0,35
+George Clooney,1,0,1,0,63,1,0,0,76
+Gal Gadot,1,1,0,0,39,1,0,0,20
+Bill Gates,1,0,1,0,69,1,0,0,69
+Shakira,1,1,0,0,48,0,1,0,55
+Selena Gomez,1,1,0,0,32,1,0,0,32
+Ryan Reynolds,1,0,1,0,48,1,0,0,20
+Natalie Portman,1,1,0,0,43,1,0,0,43
+Timothée Chalamet,1,0,1,0,29,1,0,0,34
+Julia Roberts,1,1,0,0,57,0,1,0,45
+Zac Efron,1,0,1,0,37,1,0,0,55
+Cate Blanchett,1,1,0,0,55,1,0,0,20
+Idris Elba,1,0,1,0,52,1,0,0,76
+Adele,1,1,0,0,36,1,0,0,25
+Harry Styles,1,0,1,0,31,1,0,0,76
+Dwayne Johnson,1,0,1,0,52,1,0,0,55
+Angelina Jolie,1,1,0,0,49,1,0,0,32
+Chris Hemsworth,1,0,1,0,41,1,0,0,41
+Meryl Streep,1,1,0,0,75,1,0,0,45
+Dua Lipa,1,1,0,0,29,1,0,0,29
+Hugh Jackman,1,0,1,0,56,1,0,0,60
+Katy Perry,1,1,0,0,40,1,0,0,55
+Robert Downey Jr.,1,0,1,0,60,1,0,0,45
+Nicole Kidman,1,1,0,0,57,1,0,0,76
+Ed Sheeran,1,0,1,0,34,0,0,1,20
+Scarlett Johansson,1,1,0,0,40,1,0,0,20
+Justin Timberlake,1,0,1,0,44,1,0,0,55
+Zendaya,1,1,0,0,28,1,0,0,34
+Jake Gyllenhaal,1,0,1,0,44,1,0,0,20
+Kristen Stewart,1,1,0,0,35,1,0,0,35
+Chris Evans,1,0,1,0,43,1,0,0,20
+Miley Cyrus,1,1,0,0,32,1,0,0,76
+Emma Stone,1,1,0,0,36,1,0,0,36
+Daniel Radcliffe,1,0,1,0,35,1,0,0,76
+Charlize Theron,1,1,0,0,49,1,0,0,20
+Matt Damon,1,0,1,0,54,1,0,0,76
+Anne Hathaway,1,1,0,0,42,1,0,0,20
+Drake,1,0,1,0,38,1,0,0,55
+Halle Berry,1,1,0,0,58,0,1,0,76
+Vin Diesel,1,0,1,0,57,1,0,0,76
+Céline Dion,1,1,0,0,57,1,0,0,76
+Gigi Hadid,1,1,0,0,30,1,0,0,30
+Kendall Jenner,1,1,0,0,29,0,0,1,55
+Jared Leto,1,0,1,0,53,1,0,0,76
+Ariana Grande,1,1,0,0,31,0,1,0,31
+Johnny Depp,1,0,1,0,61,1,0,0,20
+Meghan Markle,1,1,0,0,43,1,0,0,43
+Prince William,1,0,1,0,42,1,0,0,42
+Prince Harry,1,0,1,0,40,1,0,0,40
+Kate Middleton,1,1,0,0,43,1,0,0,43
+Tom Holland,1,0,1,0,28,1,0,0,76
+Ben Affleck,1,0,1,0,52,1,0,0,20
+Reese Witherspoon,1,1,0,0,49,1,0,0,45
+Camila Cabello,1,1,0,0,28,0,1,0,20
+Shawn Mendes,1,0,1,0,26,1,0,0,55
+Brie Larson,1,1,0,0,35,1,0,0,35
+Jason Momoa,1,0,1,0,45,1,0,0,76
+Lizzo,1,1,0,0,36,1,0,0,20
+Eva Longoria,1,1,0,0,50,1,0,0,32
+Ryan Gosling,1,0,1,0,44,1,0,0,32
+Cardi B,1,1,0,0,32,1,0,0,32
+Mark Zuckerberg,1,0,1,0,40,1,0,0,20
+Penélope Cruz,1,1,0,0,50,0,0,1,45
+Sofia Vergara,1,1,0,0,52,0,0,1,45
+Pedro Pascal,1,0,1,0,50,1,0,0,76
+Florence Pugh,1,1,0,0,29,1,0,0,34
+Joe Biden,1,0,1,0,82,1,0,0,32
+Kamala Harris,1,1,0,0,60,1,0,0,60
+Greta Thunberg,1,1,0,0,22,1,0,0,20
+Trevor Noah,1,0,1,0,41,1,0,0,55
+Anderson Cooper,1,0,1,0,57,1,0,0,60
+Stephen Colbert,1,0,1,0,60,1,0,0,85
+Ellen DeGeneres,1,1,0,0,67,1,0,0,20
+James Corden,1,0,1,0,46,1,0,0,76
+Jimmy Fallon,1,0,1,0,50,1,0,0,45
+Whoopi Goldberg,1,1,0,0,69,1,0,0,76
+Seth Meyers,1,0,1,0,51,1,0,0,20
+Neil Patrick Harris,1,0,1,0,51,1,0,0,76
+John Oliver,1,0,1,0,48,1,0,0,55
+Amy Schumer,1,1,0,0,43,1,0,0,20
+Rachel Maddow,1,1,0,0,52,1,0,0,45
+Tina Fey,1,1,0,0,54,0,0,1,20
+Steve Carell,1,0,1,0,62,1,0,0,45
+Lucy Liu,1,1,0,0,56,0,0,1,76
